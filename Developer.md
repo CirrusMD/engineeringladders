@@ -4,15 +4,14 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
-| 1 | Junior | [D1 - Developer 1](#d1---developer-1) |
-| 2 | Junior | [D2 - Developer 2](#d2---developer-2) |
-| 3 | Junior | [D3 - Developer 3](#d3---developer-3) |
-| 4 | Senior | [D4 - Developer 4](#d4---developer-4) |
-| 5 | Senior | [D5 - Developer 5](#d5---developer-5) |
-| 6 | Senior | [D6 - Developer 6](#d6---developer-6) |
-| 7 | Senior | [D7 - Developer 7](#d7---developer-7) |
+| 1 | Junior | [IC1 - Developer 1](#d1---developer-1) |
+| 2 | Mid | [IC2 - Developer 2](#d2---developer-2) |
+| 3 | Senior | [IC3 - Developer 3](#d3---developer-3) |
+| 4 | SeniorII/Lead | [IC4 - Developer 4](#d4---developer-4) |
+| 5 | Staff | [IC5 - Developer 5](#d5---developer-5) |
+| 6 | Principal | [IC6 - Developer 6](#d6---developer-6) |
 
-## D1 - Developer 1
+## IC1 - Junior
 
 ![Developer 1](/charts/developer-1.png)
 
@@ -22,7 +21,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D2 - Developer 2
+## IC2 - Mid
 
 ![Developer 2](/charts/developer-2.png)
 
@@ -32,7 +31,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D3 - Developer 3
+## IC3 - Senior
 
 ![Developer 3](/charts/developer-3.png)
 
@@ -42,7 +41,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D4 - Developer 4
+## IC4 - SeniorII/Lead
 
 ![Developer 4](/charts/developer-4.png)
 
@@ -52,7 +51,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D5 - Developer 5
+## IC5 - Staff
 
 ![Developer 5](/charts/developer-5.png)
 
@@ -62,7 +61,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## D6 - Developer 6
+## IC6 - Prinicpal
 
 ![Developer 6](/charts/developer-6.png)
 
@@ -70,17 +69,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Company**: makes an impact on the whole tech organization
+* **Company**: makes an impact on the whole tech organization or on the tech community
 
-## D7 - Developer 7
-
-![Developer 7](/charts/developer-7.png)
-
-* **Creates**: designs and creates new technologies that are widely used either by internal or external teams
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Community**: makes an impact on the tech community
 
 # Other Pages
 
