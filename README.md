@@ -18,19 +18,14 @@ The framework has 3 different ladders:
 
 If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
 
-| Level | Seniority | [Developer](Developer.md) |
-
-Junior | [IC1](Developer.md#d1---developer-1) | 
-
-Mid | [IC2](Developer.md#d2---developer-2) | 
-
-Senior | [IC3](Developer.md#d3---developer-3) | 
-
-SeniorII/Lead | [IC4](Developer.md#d4---developer-4) | 
-
-Staff | [IC5](Developer.md#d5---developer-5) | 
-
-Principal | [IC6](Developer.md#d6---developer-6) | 
+| Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
+| :---: | :---: | :---: | :---: | :---: | 
+| 1 | Junior | [IC1](Developer.md#d1---developer-1) | | | |
+| 2 | Mid | [IC2](Developer.md#d2---developer-2) | | | |
+| 3 | Senior | [IC3](Developer.md#d3---developer-3) | | | |
+| 4 | SeniorII | [IC4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) |
+| 5 | Staff | [IC5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | Principal | [IC6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
 
 (click on position name for more details)
 
