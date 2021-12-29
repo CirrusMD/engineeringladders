@@ -26,6 +26,7 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 | 4 | SeniorII | [IC4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [EM4](EngineeringManager.md#em4---engineering-manager-4) |
 | 5 | Staff | [IC5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
 | 6 | Principal | [IC6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+| 7 | -|   | [TL7](TechLead.md#tl7---tech-lead-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
 
