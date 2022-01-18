@@ -71,6 +71,17 @@ or
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
+OR
+
+![Tech Lead 5](/charts/techlead-5.png)
+
+* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
+* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
+* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
+* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Team**: makes an impact on the whole team, not just on specific parts of it
+
+
 ## IC6 - Prinicpal
 
 ![Developer 6](/charts/developer-6.png)
@@ -81,6 +92,15 @@ or
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization or on the tech community
 
+OR 
+
+![Tech Lead 6](/charts/techlead-6.png)
+
+* **Masters**: has very deep knowledge about the whole technology stack of the system
+* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
+* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
+* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
 # Other Pages
 
