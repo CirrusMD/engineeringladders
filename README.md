@@ -15,8 +15,8 @@ The framework has 2 different ladders:
 * [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
 * [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
 
-| Level | Seniority | [Developer](Developer.md)| [Engineering Manager](EngineeringManager.md) |
-| :---: | :---: | :---: | :---: | :---: | 
+| Level | Seniority | [Developer](Developer.md) | [Engineering Manager](EngineeringManager.md) |
+| :---: | :---: | :---: | :---: | 
 | 1 | Junior | [IC1](Developer.md#d1---developer-1) | | | |
 | 2 | Mid | [IC2](Developer.md#d2---developer-2) | | | |
 | 3 | Senior | [IC3](Developer.md#d3---developer-3) | | | |
