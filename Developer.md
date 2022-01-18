@@ -43,13 +43,22 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 ## IC4 - SeniorII/Lead
 
-![Developer 4](/charts/developer-4.png)
+![Developer 4](/charts/developer-4.png) 
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
+
+or 
+
+(/charts/techlead-4.png)
+* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
+* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
+* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
+* **Subsystem**: makes an impact on one or more subsystems or team pods
 
 ## IC5 - Staff
 
