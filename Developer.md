@@ -53,7 +53,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 or 
 
-(/charts/techlead-4.png)
+![Tech Lead 4](/charts/techlead-4.png)
+
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
