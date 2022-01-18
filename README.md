@@ -10,12 +10,10 @@ The framework relies heavily in radar charts to show visually the different pers
 
 # Career Ladders
 
-The framework has 3 different ladders:
+The framework has 2 different ladders:
 
 * [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
 * [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
-
-If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
 
 | Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: | 
