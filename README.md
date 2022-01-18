@@ -13,7 +13,6 @@ The framework relies heavily in radar charts to show visually the different pers
 The framework has 3 different ladders:
 
 * [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-* [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
 * [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
 
 If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
@@ -23,10 +22,9 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 | 1 | Junior | [IC1](Developer.md#d1---developer-1) | | | |
 | 2 | Mid | [IC2](Developer.md#d2---developer-2) | | | |
 | 3 | Senior | [IC3](Developer.md#d3---developer-3) | | | |
-| 4 | SeniorII | [IC4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [EM4](EngineeringManager.md#em4---engineering-manager-4) |
-| 5 | Staff | [IC5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Principal | [IC6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | -|   | [TL7](TechLead.md#tl7---tech-lead-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| 4 | SeniorII | [IC4](Developer.md#d4---developer-4) | [EM4](EngineeringManager.md#em4---engineering-manager-4) |
+| 5 | Staff | [IC5](Developer.md#d5---developer-5)| [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | Principal | [IC6](Developer.md#d6---developer-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
 
 (click on position name for more details)
 
@@ -125,7 +123,5 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 # Other Pages
 
 * [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
 * [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)
