@@ -82,7 +82,7 @@ OR
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
 
-## IC6 - Prinicpal
+## IC6 - Principal
 
 ![Developer 6](/charts/developer-6.png)
 
